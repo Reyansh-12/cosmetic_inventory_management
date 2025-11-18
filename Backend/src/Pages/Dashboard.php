@@ -4,9 +4,6 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 include('/xampp/htdocs/Inventory_management/Backend/src/Layouts/Links.php');
 
 ?>
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 
